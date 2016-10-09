@@ -1,1 +1,3 @@
 Hi, this is my first new file.
+The contents:
+	<No contents>
